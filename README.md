@@ -1,6 +1,6 @@
-<h1>Página de Barbería Alura</h1>
+<h1>Sistema de registro</h1>
 
--Estado del proyecto: Terminado
+-Estado del proyecto: En costrucción.
 
 Para ejecutar el sistema, debes poner:
 
